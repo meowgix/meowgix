@@ -2,14 +2,17 @@
 
 I'm a graduate student interested in statistics and programming.
 
-#### ABOUT ME
+#### About Me
 - 📚 In Progress: Master's of Science in Data Analytics (25%)
+- 😸 Pronouns: She/Her
 - 💻 Learning: Python, R, LaTeX, zshell
 - 📈 Practicing: Analytics Fundamentals
-- 🤝 Looking For: Collaborate on beginner friendly Open Source projects
-- 👀 Need Help With: SQL, Web Development
 - 🙋‍♀️Ask About: Study Tips, Productivity, Neurodiversity, Feminism
-- 😸 Pronouns: She/Her
+
+#### Objectives
+- 🤝 Looking For: Mentorship from Women in Tech
+- 👀 Need Help With: SQL, Web Development
+
 
 <!--
 **meowgix/meowgix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
