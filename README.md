@@ -7,7 +7,7 @@ I'm a graduate student interested in statistics and programming.
 - 😸 Pronouns: She/Her
 - 💻 Learning: Python, R, LaTeX, zshell
 - 📈 Practicing: Analytics Fundamentals
-- 🙋‍♀️ Ask Me About: Study Tips, Productivity, Neurodiversity, Feminism
+- 🙋‍♀️ Ask Me About: Study Tips, Productivity, & Neurodiversity
 
 #### My Objectives
 - 🤝 Looking For: Mentorship from Women in Tech
