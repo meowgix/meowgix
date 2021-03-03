@@ -1,4 +1,8 @@
-### Hello! 👋
+-----------------------------------
+
+![](/helloworld.svg)
+
+-----------------------------------
 
 I'm a developer-in-training interested in all things “STEAM”.
 
