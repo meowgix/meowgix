@@ -15,5 +15,5 @@ I'm a developer-in-training interested in all things “STEAM”.
 
 #### Reach Me
 * Twitter: [@meowgix](https://twitter.com/meowgix)
-* Blog: [meowgix.com](https://meowgix.com) 🚧 Still Under Construction
+* Blog: [meowgix.com](https://meowgix.com) 🚧 Still Under Construction 🚧
 * E-mail: [meowgixmailbox](mailto:meowgixmailbox@gmail.com?subject=[GitHub]%20Let's%20Chat)
