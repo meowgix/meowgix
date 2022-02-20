@@ -4,7 +4,7 @@
 
 -----------------------------------
 
-I'm a developer-in-training interested in all things “STEAM”.
+I am a software engineer interested in all things “STEAM”.
 
 #### About Me
 * 🖋 **Working On:** Master's of Science in Data Analytics (65%)
