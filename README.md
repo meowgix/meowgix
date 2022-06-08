@@ -11,7 +11,7 @@ I am a software engineer interested in all things “STEAM”.
 * 🤍 **Pronouns:** She/Her
 * ⌨️ **Languages:** `Python`, `R`, `SQL`, `HTML & CSS`, `JavaScript`
 * ⏱ **Studying:** #100Devs
-* 💭 **Thinking About:** How "modern tech" (Web3, XR) intersects with the foundation principles of software engineering.
+* 💭 **Thinking About:** How to live a life that is fulfilling.
 
 #### Reach Me
 * Twitter: [@meowgix](https://twitter.com/meowgix)
