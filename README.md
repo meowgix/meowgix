@@ -7,7 +7,7 @@
 I am a software engineer interested in all things “STEAM”.
 
 #### About Me
-* 🖋 **Working On:** Master's of Science in Data Analytics (65%)
+* 🖋 **Working On:** Master's of Science in Data Analytics (81%)
 * 🤍 **Pronouns:** She/Her
 * ⌨️ **Languages:** `Python`, `R`, `SQL`, `HTML & CSS`, `JavaScript`
 * ⏱ **Studying:** #100Devs
