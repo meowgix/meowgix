@@ -4,16 +4,16 @@
 
 -----------------------------------
 
-I am a cat interested in science, technology, engineering, art, and math.
+i am a cat interested in science, technology, engineering, art, and math.
 
-#### About Me
-* 🖋 **Working On:** Not Finishing My MSDA
-* 🤍 **Obsessed With:** Building a better internet
-* ⌨️ **Languages:** I use `Python` every day. I have a crush on `Go` devs. I ought to learn `SQL` at some point.
-* 🥼 **Studying:** Definitely Black Magic Arts
-* 💭 **Thinking About:** How can a sensitive person survive in a dystopia?
+#### about
+* 🖋 **working on:**  not finishing my MSDA
+* 🤍 **obsessed with:**  building a better internet
+* ⌨️ **languages:**  i use `Python` every day. currently crushing on `Go` devs. i should learn `SQL` fluently at some point.
+* 🥼 **studying:**  black magic arts
+* 💭 **wondering:**  how does a sensitive person survive in a dystopia?
 
-#### Don't Contact Me
-* Twitter: [@meowgix](https://twitter.com/meowgix)
-* Blog: [meowgix.com](https://meowgix.com) 🚧 Undergoing Re-orginization 🚧
-* E-mail: [meowgixmailbox](mailto:meowgixmailbox@gmail.com?subject=[GitHub]%20Hey%20girl,%20where%20%20is%20chicken?)
+#### don't contact me
+* twitter: [@meowgix](https://twitter.com/meowgix)
+* blog: [meowgix.com](https://meowgix.com) 🚧 undergoing infinite re-orginization 🚧
+* e-mail: [meowgixmailbox](mailto:meowgixmailbox@gmail.com?subject=[GitHub]%20hey%20girl,%20where%20%20is%20chicken?)
