@@ -4,16 +4,16 @@
 
 -----------------------------------
 
-I am a software engineer interested in all things “STEAM”.
+I am a cat interested in science, technology, engineering, art, and math.
 
 #### About Me
-* 🖋 **Working On:** Master's of Science in Data Analytics (81%)
-* 🤍 **Pronouns:** She/Her
-* ⌨️ **Languages:** `Python`, `R`, `SQL`, `HTML & CSS`, `JavaScript`
-* ⏱ **Studying:** #100Devs
-* 💭 **Thinking About:** How to live a life that is fulfilling.
+* 🖋 **Working On:** Not Finishing My MSDA
+* 🤍 **Obsessed With:** Building a better internet
+* ⌨️ **Languages:** I use `Python` every day. I have a crush on `Go` devs. I ought to learn `SQL` at some point.
+* 🥼 **Studying:** Definitely Black Magic Arts
+* 💭 **Thinking About:** How can a sensitive person survive in a dystopia?
 
-#### Reach Me
+#### Don't Contact Me
 * Twitter: [@meowgix](https://twitter.com/meowgix)
-* Blog: [meowgix.com](https://meowgix.com) 🚧 Still Under Construction 🚧
-* E-mail: [meowgixmailbox](mailto:meowgixmailbox@gmail.com?subject=[GitHub]%20Let's%20Chat)
+* Blog: [meowgix.com](https://meowgix.com) 🚧 Undergoing Re-orginization 🚧
+* E-mail: [meowgixmailbox](mailto:meowgixmailbox@gmail.com?subject=[GitHub]%20Hey%20girl,%20where%20%20is%20chicken?)
